@@ -100,6 +100,7 @@
 					CA2DCB901BE27D3600CA9304 = {
 						CreatedOnToolsVersion = 7.1;
 						DevelopmentTeam = 4W5KPMC427;
+						LastSwiftMigration = 0800;
 					};
 				};
 			};
@@ -256,6 +257,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.c0der0.ToDo-List";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -267,6 +269,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.c0der0.ToDo-List";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -289,6 +292,7 @@
 				CA2DCBA71BE27D3600CA9304 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
